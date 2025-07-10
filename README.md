@@ -32,3 +32,16 @@ Your secure password is:
 &8dJ#Xz@pW
 ---
 
+## 📫 About Me
+
+Prajwal Butte  
+2nd Year Computer Engineering Student, Trinity COER, Pune  
+Passionate about learning Python and building simple but useful projects.
+
+
+🔗 [LinkedIn](https://www.linkedin.com/in/prajwal-butte-441485330)
+💻 [GitHub](https://github.com/prajwalbutte)
+
+---
+
+> 📌 *“I may not be from a top college, but I’m putting in top effort daily.”*
