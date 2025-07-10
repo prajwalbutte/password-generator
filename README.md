@@ -8,9 +8,9 @@ This is a simple Python project I built while learning how to generate secure pa
 
 - The program asks the user to enter the desired *length* of the password.
 - If the length is *greater than 5*, it:
-  - Combines letters (A-Z, a-z), digits (0-9), and symbols (!@#$...)
-  - Randomly selects characters from all of them
-  - Displays the generated password
+- Combines letters (A-Z, a-z), digits (0-9), and symbols (!@#$...)
+- Randomly selects characters from all of them
+- Displays the generated password
 - If the length is too short (≤5), it shows a warning.
 
 ---
@@ -26,6 +26,7 @@ This is a simple Python project I built while learning how to generate secure pa
 ---
 ## Example Output
 Welcome to my Project 'PASSWORD GENERATOR'
+
 Enter length of password: 10
 
 Your secure password is:
